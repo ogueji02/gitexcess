@@ -12,4 +12,9 @@ this is git3
 =======
 >>>>>>> 28136cc253c294be3d31434f3fef97b0bd6d5db6
 >>>>>>> 5d77197dbf22b7db26671bbea2a0cae32af25067
+<<<<<<< HEAD
 wonders
+=======
+this is from linux machine clone
+who is next?
+>>>>>>> 8e06d01c7c8a1292f580ea76cc4dba6b08c302c5
